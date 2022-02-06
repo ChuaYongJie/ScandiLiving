@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="418.968" height="370.188" viewBox="0 0 418.968 370.188">
+  <defs>
+    <filter id="Diamond" x="24.209" y="0" width="370.189" height="370.188" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_19" x="282.758" y="197.653" width="136.21" height="136.209" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_20" x="0" y="36.326" width="136.21" height="136.209" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_21" x="300.105" y="180.307" width="89.373" height="89.373" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_22" x="29.49" y="100.51" width="89.373" height="89.373" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_24" x="246.329" y="249.695" width="70.291" height="70.291" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-6"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_25" x="300.105" y="303.471" width="58.148" height="58.148" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-7"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_26" x="60.715" y="8.57" width="58.148" height="58.148" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-8"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Line_27" x="97.144" y="44.999" width="80.699" height="80.699" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6.5" result="blur-9"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Location_Logo" data-name="Location Logo" transform="translate(-751.516 -6321.906)">
+    <g id="map" transform="translate(897 6433)">
+      <g id="Group_18" data-name="Group 18" transform="translate(49.094 22.088)">
+        <g id="Group_17" data-name="Group 17">
+          <path id="Path_40" data-name="Path 40" d="M201.99,93.3a14.746,14.746,0,0,0-8.441,2.638,1.638,1.638,0,0,0-.416,2.266,1.61,1.61,0,0,0,2.25.419,11.541,11.541,0,0,1,6.607-2.064,11.726,11.726,0,1,1-10.361,6.34,1.636,1.636,0,0,0-.688-2.2,1.612,1.612,0,0,0-2.181.693,15.151,15.151,0,0,0-1.675,6.924A14.907,14.907,0,1,0,201.99,93.3Z" transform="translate(-187.084 -93.297)" fill="#88b06a"/>
+        </g>
+      </g>
+      <g id="Group_20" data-name="Group 20" transform="translate(0.001)">
+        <g id="Group_19" data-name="Group 19">
+          <path id="Path_41" data-name="Path 41" d="M127.857,125.393,109.406,80.727a1.869,1.869,0,0,0-1.726-1.16H89.293a95.339,95.339,0,0,0,8.878-14.5c4.12-8.448,6.209-16.653,6.209-24.387a40.381,40.381,0,1,0-80.759,0c0,7.734,2.089,15.939,6.209,24.387a95.288,95.288,0,0,0,8.878,14.5H20.321a1.869,1.869,0,0,0-1.726,1.16L6.022,111.163a1.888,1.888,0,0,0,1.008,2.462,1.86,1.86,0,0,0,2.444-1.015l1.794-4.343H23.994l-6.6,15.965H4.673L6.585,119.6a1.888,1.888,0,0,0-1.007-2.462,1.864,1.864,0,0,0-2.444,1.015L.144,125.393a1.894,1.894,0,0,0,.171,1.769A1.865,1.865,0,0,0,1.87,128H126.131a1.866,1.866,0,0,0,1.555-.838A1.9,1.9,0,0,0,127.857,125.393ZM27.36,40.683a36.641,36.641,0,1,1,73.281,0c0,8.536-2.944,22.176-16.561,39.558-.014.016-.026.034-.039.05Q83,81.621,81.87,82.98A143.833,143.833,0,0,1,64,100.918a143.613,143.613,0,0,1-17.821-17.88q-1.156-1.392-2.222-2.753c-.011-.015-.022-.03-.034-.044C30.306,62.861,27.36,49.222,27.36,40.683ZM21.568,83.334H34.294L29.652,94.571H16.926Zm10.932,40.9L44.185,95.946l33.254,28.287Zm50.735,0h0L44.646,91.408a1.863,1.863,0,0,0-2.932.715L28.45,124.233h-7l7.074-17.126a1.894,1.894,0,0,0-.171-1.769A1.866,1.866,0,0,0,26.8,104.5H12.824l2.546-6.162H30.9a1.869,1.869,0,0,0,1.726-1.16l5.719-13.844h3.245q.845,1.061,1.723,2.123a141.047,141.047,0,0,0,19.544,19.371,1.859,1.859,0,0,0,2.288,0c.22-.171,3.189-2.5,7.418-6.49h21.17a1.884,1.884,0,0,0,0-3.767H76.416c2.592-2.626,5.425-5.687,8.273-9.114q.882-1.061,1.723-2.123h20.021l4.642,11.237h-9.864a1.884,1.884,0,0,0,0,3.767h11.42l2.545,6.163H76.659a1.87,1.87,0,0,0-1.752,1.224,1.893,1.893,0,0,0,.526,2.081l18.783,16.427H83.234Zm16.687,0L81.665,108.268h35.068l6.6,15.966Z" transform="translate(-0.001)" fill="#88b06a"/>
+        </g>
+      </g>
+    </g>
+    <g id="Icon_Slot" data-name="Icon Slot" transform="translate(809.284 6355.533)">
+      <g transform="matrix(1, 0, 0, 1, -57.77, -33.63)" filter="url(#Diamond)">
+        <g id="Diamond-2" data-name="Diamond" transform="translate(43.71 175.09) rotate(-45)" fill="none" stroke="#88b06a" stroke-width="5">
+          <rect width="234.186" height="234.186" stroke="none"/>
+          <rect x="2.5" y="2.5" width="229.186" height="229.186" fill="none"/>
+        </g>
+      </g>
+      <g id="Space" transform="translate(-36.5 13.966)">
+        <line id="Space-2" data-name="Space" x2="38.164" y2="38.164" transform="translate(97.144 8.674)" fill="none" stroke="#fff" stroke-width="10"/>
+        <line id="Space-3" data-name="Space" x2="93.674" y2="93.674" transform="translate(0)" fill="none" stroke="#fff" stroke-width="10"/>
+        <line id="Space-4" data-name="Space" x2="46.837" y2="46.837" transform="translate(29.49 64.184)" fill="none" stroke="#fff" stroke-width="10"/>
+        <line id="Spaace" x2="46.837" y2="46.837" transform="translate(300.105 143.981)" fill="none" stroke="#fff" stroke-width="10"/>
+        <line id="Space-5" data-name="Space" x2="93.674" y2="93.674" transform="translate(282.758 161.328)" fill="none" stroke="#fff" stroke-width="10"/>
+        <line id="Space-6" data-name="Space" x2="27.755" y2="27.755" transform="translate(246.329 213.369)" fill="none" stroke="#fff" stroke-width="10"/>
+      </g>
+      <g id="lines" transform="translate(-36.5 -13.79)">
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_19)">
+          <line id="Line_19-2" data-name="Line 19" x2="93.674" y2="93.674" transform="translate(304.03 208.92)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_20)">
+          <line id="Line_20-2" data-name="Line 20" x2="93.674" y2="93.674" transform="translate(21.27 47.59)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_21)">
+          <line id="Line_21-2" data-name="Line 21" x2="46.837" y2="46.837" transform="translate(321.37 191.57)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_22)">
+          <line id="Line_22-2" data-name="Line 22" x2="46.837" y2="46.837" transform="translate(50.76 111.78)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_24)">
+          <line id="Line_24-2" data-name="Line 24" x2="27.755" y2="27.755" transform="translate(267.6 260.96)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_25)">
+          <line id="Line_25-2" data-name="Line 25" x2="15.612" y2="15.612" transform="translate(321.37 314.74)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_26)">
+          <line id="Line_26-2" data-name="Line 26" x2="15.612" y2="15.612" transform="translate(81.98 19.84)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -21.27, -19.84)" filter="url(#Line_27)">
+          <line id="Line_27-2" data-name="Line 27" x2="38.164" y2="38.164" transform="translate(118.41 56.27)" fill="none" stroke="#88b06a" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
